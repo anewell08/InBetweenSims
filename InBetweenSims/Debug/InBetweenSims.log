@@ -1,0 +1,3 @@
+﻿  InBetweenSims.cpp
+C:\Users\Aaron Newell\Desktop\InBetweenSims\InBetweenSims\InBetweenSims.cpp(118,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  InBetweenSims.vcxproj -> C:\Users\Aaron Newell\Desktop\InBetweenSims\Debug\InBetweenSims.exe
